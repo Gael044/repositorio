@@ -1,0 +1,47 @@
+1  pwd
+    2  cd Desktop
+    3  ls
+    4  ls -1
+    5  mdir repositorio
+    6  mkdir repositorio
+    7  cd repositorio/
+    8  code .
+    9  git init
+   10  git status
+   11  git add rep.txt
+   12  git status
+   13  git config -- global user.name "GaelCerecer"
+   14*
+   15  git config --global user.email "gael.cerecer@uabc.edu.mx"
+   16  git config --global user.name "GaelCerecer"
+   17* git commit -m "Firs"
+   18  git branch -M main
+   19  git remote add origin https://github.com/Gael044/repositorio.git
+   20  git push -u origin main
+   21  history
+   22  code .
+   23  cd Desktop
+   24  cd repositorio/
+   25  code .
+   26* git commit -m "third co"
+   27  git add par_o_impar.c
+   28  git commit -m "Second Commit"
+   29  git push origin main
+   30  cd destok
+   31  cd destock
+   32  cd desktop
+   33  cd repositorio
+   34  code .
+   35  git add .
+   36  cd desktop
+   37  cd repositorio
+   38  code .
+   39  git add .
+   40  git status
+   41  git commit -m "third Commit"
+   42  git push origin main
+   43  git add .
+   44  git status
+   45  git commit -m "fourth Commit"
+   46  git push origin main
+   47  history
