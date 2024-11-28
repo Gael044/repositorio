@@ -1,0 +1,7 @@
+Algoritmo Del_1_al_100_pseint
+	i = 0
+	Mientras i <= 99 Hacer
+		i = i + 1
+		Escribir i
+	Fin Mientras
+FinAlgoritmo
